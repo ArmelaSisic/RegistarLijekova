@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registar lijekova</string>
+    <string name="registar_lijekova">Registar lijekova</string>
+    <string name="name">Name</string>
+    <string name="atc">Atc</string>
+    <string name="description">Opis</string>
+    <string name="title">Detalji lijeka</string>
+    <string name="NameOfMedicament">Ranitidin</string>
+    <string name="short_description">Kratki opis</string>
+    <string name="todo">TODO</string>
+    <string name="oi">TODO</string>
+    <string name="symbol">-</string>
+
+</resources>
